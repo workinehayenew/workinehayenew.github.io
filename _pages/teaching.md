@@ -5,15 +5,20 @@ permalink: /teaching/
 author_profile: true
 ---
 
+### Teaching Assistant
+
+**Econometrics (ØAMET4100)**, Master's level — Spring 2024<br>
 Oslo Business School, OsloMet
-------
-Teaching assistant
 
-* Econometrics (ØAMET4100), Master's level, Spring 2024
-* Business Decision Making using Data (ØAMET2200), Bachelor's level, Fall 2024 and Fall 2025
+**Business Decision Making using Data (ØAMET2200)**, Bachelor's level — Fall 2024; Fall 2025<br>
+Oslo Business School, OsloMet
 
-Ethiopia
-------
-* Lecturer, Department of Economics, Debre Berhan University, Mar 2018 – Dec 2021
-* Lecturer, Department of Economics, Wachemo University, Jul 2015 – Feb 2018
-* Assistant Lecturer, Department of Economics, Wachemo University, Oct 2012 – Nov 2013
+### Lecturer
+
+**Department of Economics, Debre Berhan University**, Ethiopia — Mar 2018 to Dec 2021
+
+**Department of Economics, Wachemo University**, Ethiopia — Jul 2015 to Feb 2018
+
+### Assistant Lecturer
+
+**Department of Economics, Wachemo University**, Ethiopia — Oct 2012 to Nov 2013

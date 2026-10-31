@@ -25,8 +25,8 @@ Professional experience
 
 Publications
 ------
-* "War Comes Home: Conflict Exposure and Intimate Partner Violence in Ethiopia" (with A. Kotsadam, C. Ringdal and E. Villanger). *Social Science & Medicine*, vol. 409 (2026).
-* "Armed Conflict Exposure and Violent Discipline of Children at Home: Panel Evidence from Ethiopia" (with A. Kotsadam, C. Ringdal and E. Villanger). Accepted, *Social Science & Medicine*.
+* "War Comes Home: Conflict Exposure and Intimate Partner Violence in Ethiopia" (with A. Kotsadam, C. Ringdal and E. Villanger). *Social Science & Medicine*, 409 (2026), 119866.
+* "Armed Conflict Exposure and Violent Discipline of Children at Home: Panel Evidence from Ethiopia" (with A. Kotsadam, C. Ringdal and E. Villanger). Accepted.
 
 Presentations
 ------
