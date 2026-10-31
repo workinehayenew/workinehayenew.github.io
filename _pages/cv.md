@@ -7,58 +7,40 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
+[Download my CV (PDF)](/files/Workineh_Ayenew_CV.pdf)
 
 Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+------
+* PhD in Economics (candidate), Oslo Business School, Oslo Metropolitan University, 2023–present
+* Advanced Master's in International and Development Economics, University of Namur and UCLouvain, Belgium, 2019–2020
+* Master's in Economics, Arba Minch University, Ethiopia, 2013–2015
+* Bachelor's in Economics, Haramaya University, Ethiopia, 2009–2012
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+Professional experience
+------
+* Research Assistant, Policy Studies Institute (PSI), Addis Ababa, Jan 2021 – Sep 2023
+* Lecturer, Department of Economics, Debre Berhan University, Mar 2018 – Dec 2021
+* Lecturer, Department of Economics, Wachemo University, Jul 2015 – Feb 2018
+* Assistant Lecturer, Department of Economics, Wachemo University, Oct 2012 – Nov 2013
 
 Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+------
+* "War Comes Home: Conflict Exposure and Intimate Partner Violence in Ethiopia" (with A. Kotsadam, C. Ringdal and E. Villanger). *Social Science & Medicine*, vol. 409 (2026).
+* "Armed Conflict Exposure and Violent Discipline of Children at Home: Panel Evidence from Ethiopia" (with A. Kotsadam, C. Ringdal and E. Villanger). Accepted, *Social Science & Medicine*.
+
+Presentations
+------
+See [Talks](/talks/).
+
+Grants and scholarships
+------
+* OsloMet PhD Scholarship, 2023–2027
+* ARES (Académie de Recherche et d'Enseignement Supérieur) Full Scholarship, 2019–2020
+* International Security and Development Center (ISDC) Young Scholars Program, conference travel support
+
+Skills
+------
+* **Methods:** causal inference, impact evaluation, applied microeconometrics, randomized controlled trials
+* **Software:** Stata, R, GIS (QGIS, ArcGIS), SurveyCTO, Google Earth Engine
+* **Data:** large-scale household surveys (DHS, MICS, LSMS), geospatial climate data (WBGT, CHIRPS), conflict event data (ACLED, UCDP)
+* **Languages:** Amharic (native), English (proficient), Norwegian (A2)
